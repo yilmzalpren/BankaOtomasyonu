@@ -1,0 +1,4 @@
+build/classes/Files/*
+build/classes/Images/*
+src/Files/*
+src/Images/*
